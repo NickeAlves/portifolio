@@ -11,7 +11,7 @@
     padding: 0;
 }
 
-.body {
+body {
     box-sizing: border-box;
     background-color: var(--cor--primaria);
     color: var(--cor--secundaria);    

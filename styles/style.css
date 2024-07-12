@@ -153,7 +153,7 @@ body {
 
 .apresentacao__links_navegacao:hover {
     background-color: #3CB371;
-    transition: 5s;
+    transition: .5s;
 }
 
 .apresentacao__imagem {

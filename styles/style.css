@@ -104,7 +104,7 @@ body {
 
 .apresentacao__conteudo__titulo {
     color: var(--cor--terciaria);
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-family: "Krona One", sans-serif;
 }
 
@@ -133,7 +133,7 @@ body {
 .apresentacao__links__subtitulo {
     font-family: "Krona One", sans-serif;
     font-weight: 400;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 .apresentacao__links_navegacao {
@@ -145,9 +145,9 @@ body {
     width: 50%;
     text-align: center;
     border-radius: 20px;
-    font-size: 1.5rem;
-    font-weight: 500;
-    padding: 10px 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 5px 5px;
     text-decoration: none;
     color: var(--cor--secundaria);
     font-family: "Montserrat", sans-serif;
@@ -166,7 +166,7 @@ body {
     text-align: center;
     font-family: "Krona One", sans-serif;
     font-size: 1rem;
-    padding: 28px;
+    padding: 100px;
 }
 
 /* Estilos específicos para a página "Sobre mim" */

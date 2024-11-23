@@ -108,6 +108,53 @@ body {
     font-family: "Krona One", sans-serif;
 }
 
+.apresentacao__conteudo__logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+}
+
+.logo-java {
+    height: 50px;
+} 
+
+.logo-js {
+    height: 50px;
+}
+
+.logo-html {
+    height: 50px;
+}
+
+.logo-css {
+    height: 50px;
+}
+
+.logo-spring {
+    height: 50px;
+}
+
+.logo-mysql {
+    height: 50px;
+}
+
+.logo-postgres {
+    height: 50px;
+}
+
+.logo-sqlite {
+    height: 50px;
+}
+
+.logo-git {
+    height: 50px;
+}
+
+.logo-docker {
+    height: 50px;
+}
+
 .titulo-destaque {
     color: var(--cor--terciaria);
 }

@@ -253,6 +253,10 @@ body {
         padding: 5%;
     }
 
+    .apresentacao__imagem {
+        width: 60%;
+    }
+
     .apresentacao__conteudo{
         width: auto;
     }
@@ -269,5 +273,8 @@ body {
     .apresentacao__conteudo__logo {
         grid-template-columns: repeat(5, 1fr);
         gap: 10px;
+    }
+    .apresentacao__imagem {
+        width: 60%;
     }
 }

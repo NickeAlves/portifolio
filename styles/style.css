@@ -216,7 +216,6 @@ body {
     padding: 100px;
 }
 
-/* Estilos específicos para a página "Sobre mim" */
 .apresentacao--sobre {
     display: flex;
     flex-direction: column;
@@ -256,5 +255,19 @@ body {
 
     .apresentacao__conteudo{
         width: auto;
+    }
+
+    .apresentacao__conteudo__logo {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+        gap: 20px;
+        justify-items: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .apresentacao__conteudo__logo {
+        grid-template-columns: repeat(5, 1fr);
+        gap: 10px;
     }
 }
